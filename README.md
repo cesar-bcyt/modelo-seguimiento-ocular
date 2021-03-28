@@ -1,7 +1,7 @@
 Modelo de seguimiento ocular para el sistema de comunicación aumentada Lóquor
 =====
 
-TODO:
+Por hacer:
 -----
   * Agregar soporte para Mediapipe
   * Crear modelo simplificado para tflite.js
